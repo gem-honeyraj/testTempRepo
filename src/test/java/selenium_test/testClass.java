@@ -36,7 +36,7 @@ WebDriver driver = new ChromeDriver(options);
         System.out.println(fetchedTitle);
 
         driver.quit();
-       System.out.println("Changes are being displayed");
+       System.out.println("Changes again");
 
    }
 }
